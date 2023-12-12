@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmovdsayed&label=Profile%20views&color=0e75b6&style=flat" alt="mahmovdsayed" /> </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/962513429128704061)](https://discord.com/users/962513429128704061)
 
 
 <h3 align="left">Connect with me:</h3>

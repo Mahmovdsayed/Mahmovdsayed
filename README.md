@@ -81,7 +81,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Mahmovdsayed/Mahmovdsayed/output/snake.svg" alt="Snake animation" />
-
-###

@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Mahmoud from Egypt<br><br>- 🔭 I’m working as MERN STACK DEVELOPER<br>- 📚 I'm currently learning react-native</p>
+<p align="left">I'm Mahmoud from Egypt<br><br>Front-end developer with 1 year of experience in React.js and Next.js. I’m focused on building responsive web applications and am eager to gain professional experience and contribute to innovative projects.<br><br>- 🔭 I’m working as MERN STACK DEVELOPER<br>- 📚 I'm currently learning react-native</p>
 
 ###
 

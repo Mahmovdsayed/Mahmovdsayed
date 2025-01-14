@@ -19,6 +19,11 @@
 ###
 
 <div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qdq5r5azngvj4a5ukuporwf25u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=0033ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahmovdsayed.Mahmovdsayed&"  />
 </div>
 

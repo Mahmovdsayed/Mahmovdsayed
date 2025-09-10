@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Mahmoud from Egypt<br><br>Full-stack developer with expertise in React.js, Next.js, and Node.js. With 2 years of experience, I specialize in creating responsive web applications and scalable backend solutions. I’m passionate about contributing to impactful and innovative projects.<br><br>- 🔭 I’m working as MERN STACK DEVELOPER<br>- 📚 I'm currently learning react-native</p>
+<p align="left">Hello there! I’m Mahmoud, a full-stack developer from Egypt who’s been building modern web and mobile apps for a year now. I’m particularly good at React.js, Next.js, Node.js, and React Native using Expo. I’m always on the lookout for new challenges and opportunities to grow as a developer. I love working on projects that make a real impact and push the boundaries of what’s possible. I’m all about creating responsive user interfaces and scalable backend solutions that deliver high-quality digital experiences. I’m also a big believer in continuous learning and I thrive in collaborative environments that value creativity and problem-solving.</p>
 
 ###
 

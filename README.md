@@ -94,6 +94,13 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=hono" height="40" alt="hono logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=shadcn" height="40" alt="shadcn logo"  />
+Ï
 </div>
 
 ###

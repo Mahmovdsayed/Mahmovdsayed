@@ -95,11 +95,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-<img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=hono" height="40" alt="hono logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=shadcn" height="40" alt="shadcn logo"  />
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
+
 Ï
 </div>
 

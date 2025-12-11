@@ -45,15 +45,4 @@ Engineer focused on delivering production-grade web and mobile applications. Dir
 
 ## Activity
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmovdsayed&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmovdsayed&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="140" />
-</div>
-
----
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mahmovdsayed&theme=flat&no-bg=true&margin-w=10" height="130" />
-
----
-
 <img src="https://raw.githubusercontent.com/Mahmovdsayed/Mahmovdsayed/output/snake.svg" />

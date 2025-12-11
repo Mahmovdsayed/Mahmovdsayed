@@ -1,121 +1,59 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif"  />
+  <img height="160" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" />
 </div>
 
-###
+<h1 align="center">Mahmoud Sayed</h1>
+<h3 align="center">Full-Stack Engineer • Web & Mobile Systems</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mahmoud-sayed-a51634226/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" />
   </a>
   <a href="https://www.instagram.com/mahmoodsayed_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="22" />
   </a>
   <a href="https://x.com/mahmoodsayed_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="22" />
   </a>
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahmovdsayed.Mahmovdsayed&"  />
-</div>
+## Profile
 
-###
+Engineer focused on delivering production-grade web and mobile applications. Direct experience across React, Next.js, Node.js, and React Native (Expo). Strong bias toward clean system design, predictable architecture, and scalable execution. Comfortable owning end-to-end delivery pipelines, from UI systems to backend services and deployment workflows.
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
-
-<h3 align="left">🧑🏻‍💻 About Me</h3>
-
-###
-
-<p align="left">Hello there! I’m Mahmoud, a full-stack developer from Egypt who’s been building modern web and mobile apps for a year now. I’m particularly good at React.js, Next.js, Node.js, and React Native using Expo. I’m always on the lookout for new challenges and opportunities to grow as a developer. I love working on projects that make a real impact and push the boundaries of what’s possible. I’m all about creating responsive user interfaces and scalable backend solutions that deliver high-quality digital experiences. I’m also a big believer in continuous learning and I thrive in collaborative environments that value creativity and problem-solving.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## Core Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html&theme=light" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css&theme=light" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js&theme=light" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=light" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py&theme=light" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=light" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery&theme=light" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react&theme=light" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui&theme=light" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express&theme=light" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask&theme=light" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git&theme=light" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github&theme=light" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs&theme=light" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass&theme=light" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron&theme=light" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma&theme=light" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=light" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bun&theme=light" height="40" alt="bun logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,py,cpp,flask,mongodb,prisma,redux,tailwind,bootstrap,materialui,docker,git,github,figma,electron,androidstudio,bun,vscode,sass,jquery&theme=light" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## Technical Focus Areas
 
-###
+- Web architecture and modular UI systems  
+- API design, backend services, and data modeling  
+- Cross-platform mobile development using React Native  
+- Performance-driven frontend engineering  
+- DevOps fundamentals and containerized workflows  
+
+---
+
+## Activity
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmovdsayed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmovdsayed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmovdsayed&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmovdsayed&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="140" />
 </div>
 
-###
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mahmovdsayed" height="150" alt=""  />
+<img src="https://github-profile-trophy.vercel.app/?username=Mahmovdsayed&theme=flat&no-bg=true&margin-w=10" height="130" />
 
+---
 
-###
-
-<img src="https://raw.githubusercontent.com/Mahmovdsayed/Mahmovdsayed/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/Mahmovdsayed/Mahmovdsayed/output/snake.svg" />

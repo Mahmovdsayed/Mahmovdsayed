@@ -6,7 +6,11 @@
 <h3 align="center">Full-Stack Engineer • Web & Mobile Systems</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-sayed-a51634226/" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=Mahmovdsayed&color=blueviolet" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-s-a51634226" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" />
   </a>
   <a href="https://www.instagram.com/mahmovdsayed" target="_blank">

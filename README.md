@@ -43,6 +43,18 @@ Engineer focused on delivering production-grade web and mobile applications. Dir
 
 ---
 
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mahmovdsayed&theme=nord&hide_border=false" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahmovdsayed&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
+
+</div>
+
+---
+
 ## Activity
 
 <img src="https://raw.githubusercontent.com/Mahmovdsayed/Mahmovdsayed/output/snake.svg" />
